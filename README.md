@@ -1,2 +1,4 @@
-# NYU-DataScience-Bootcamp-Spring-2025
-This repository includes all assignments provided throughout the lectures.
+## NYU-DataScience-Bootcamp
+This repository includes all assignments provided throughout the lectures for the bootcamp
+
+
